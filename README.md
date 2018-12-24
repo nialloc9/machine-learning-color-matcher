@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/nialloc9/machine-learning-color-matcher/master/assets/images/screenshot.png" alt='redux-push logo' width="100">
+<img src="https://raw.githubusercontent.com/nialloc9/machine-learning-color-matcher/master/assets/images/screenshot.png" alt='redux-push logo' width="500">
 
 # machine-learning-color-matcher
 
