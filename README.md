@@ -6,4 +6,4 @@ A javascript machine learning example of matching colors with light or dark text
 
 ### Running
 
-    Run index.html in your favourite browser.
+    Run index.html in your favorite browser.
